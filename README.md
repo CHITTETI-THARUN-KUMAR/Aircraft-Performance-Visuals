@@ -5,6 +5,7 @@ This project delivers comprehensive exploratory data analysis (EDA) and price an
 
 Dataset and Sources
 Dataset: Cleaned CSV of 300,000+ domestic Indian flights, containing details such as airline, flight number, source & destination cities, departure & arrival times, stops, class, duration, days left, and ticket price.​
+
 Data columns:
 airline, flight, sourcecity, departuretime, stops, arrivaltime, destinationcity, class, duration, daysleft, price.​
 
