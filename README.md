@@ -1,4 +1,4 @@
-# Aircraft-Performance-Visuals1
+# Aircraft-Performance-Visuals
 
 Project Overview
 
