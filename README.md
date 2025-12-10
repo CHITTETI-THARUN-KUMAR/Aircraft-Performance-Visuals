@@ -1,6 +1,6 @@
 # Aircraft-Performance-Visuals
 
-PROJECT OVERVIEW
+# PROJECT OVERVIEW
 
 
 This project delivers comprehensive exploratory data analysis (EDA) and price analytics on a dataset of over 300,000 domestic Indian flight bookings, focusing on trends in airline pricing, route popularity, and class-based ticket comparisons. It uses Python,  and SQL to efficiently process, visualize, and interpret the large-scale flight dataset.​
@@ -9,7 +9,7 @@ This project delivers comprehensive exploratory data analysis (EDA) and price an
 
 
 
-DATA SET AND SOURCES
+# DATA SET AND SOURCES
 
 
 
@@ -23,7 +23,7 @@ airline, flight, sourcecity, departuretime, stops, arrivaltime, destinationcity,
 
 
 
-TECHNOLOGIES USED
+# TECHNOLOGIES USED
 
 
 
@@ -36,7 +36,7 @@ Visualization: Matplotlib, and Seaborn for dashboards and report generation.​
 
 
 
-PROJECT WORK FLOW
+# PROJECT WORK FLOW
 
 
 
