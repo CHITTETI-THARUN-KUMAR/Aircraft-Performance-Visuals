@@ -6,7 +6,7 @@ This project delivers comprehensive exploratory data analysis (EDA) and price an
 
 
 
-Dataset and Sources
+DATA SET AND SOURCES
 
 Dataset: Cleaned CSV of 300,000+ domestic Indian flights, containing details such as airline, flight number, source & destination cities, departure & arrival times, stops, class, duration, days left, and ticket price.​
 
@@ -15,7 +15,7 @@ airline, flight, sourcecity, departuretime, stops, arrivaltime, destinationcity,
 
 
 
-Technologies Used
+TECHNOLOGIES USED
 
 Programming: Python (pandas, numpy, matplotlib, seaborn) 
 
@@ -26,7 +26,7 @@ Visualization: Matplotlib, and Seaborn for dashboards and report generation.​
 
 
 
-Project Workflow
+PROJECT WORK FLOW
 
 1. Data Cleaning & Preparation
 
