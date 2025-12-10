@@ -2,7 +2,7 @@
 
 Project Overview
 
-This project delivers comprehensive exploratory data analysis (EDA) and price analytics on a dataset of over 300,000 domestic Indian flight bookings, focusing on trends in airline pricing, route popularity, and class-based ticket comparisons. It uses Python, SQL, and Power BI to efficiently process, visualize, and interpret the large-scale flight dataset.​
+This project delivers comprehensive exploratory data analysis (EDA) and price analytics on a dataset of over 300,000 domestic Indian flight bookings, focusing on trends in airline pricing, route popularity, and class-based ticket comparisons. It uses Python,  and SQL to efficiently process, visualize, and interpret the large-scale flight dataset.​
 
 
 
